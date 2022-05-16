@@ -8,10 +8,10 @@ const TopBar = () => {
     <>
       <Navbar bg="dark" variant="dark" expand="lg">
         <Container fluid>
-          <h6 className="text-light">
+          {/* <h6 className="text-light">
             <MdLocalOffer className="text-warning" /> &nbsp;&nbsp; Free Home
             Delivery on Order Above 500/- Rupees
-          </h6>
+          </h6> */}
           <Nav className="ms-auto">
             <LinkContainer to="/" activeClassName="">
               <Nav.Link>Home</Nav.Link>

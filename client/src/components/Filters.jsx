@@ -14,7 +14,7 @@ const Filters = () => {
             <Form.Control
               value={searchkey}
               onChange={(e) => setsearchkey(e.target.value)}
-              placeholder="serach pizza"
+              placeholder="search"
             />
           </Col>
           <Col>
