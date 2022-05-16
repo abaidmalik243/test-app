@@ -26,10 +26,10 @@ const AdminScreen = ({ history }) => {
                 All Users
               </Button>
               <Button onClick={() => history.push("/admin/pizzalist")}>
-                All Pizzas
+                All Items
               </Button>
               <Button onClick={() => history.push("/admin/addnewpizza")}>
-                Add New Pizza
+                Add New Item
               </Button>
               <Button onClick={() => history.push("/admin/orderlist")}>
                 All Orders

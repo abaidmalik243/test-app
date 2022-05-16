@@ -9,7 +9,7 @@ const Contact = () => {
       <Container style={{ marginTop: "50px" }}>
         <Row>
           <Col md={6}>
-            <h1>Techinfo YT Pizza Shop</h1>
+            <h1>Techinfo YT Shop</h1>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores,
               nostrum magni voluptatem perferendis dolorum nisi architecto
